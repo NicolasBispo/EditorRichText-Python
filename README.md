@@ -5,15 +5,50 @@ Editor de texto simples criado com PyQt5
 
 **Funções**
 
- - Salvar arquivo
- - Desfazer
- - Refazer
- - Alterar fonte
- - Alterar tamanho texto
- - Deixar em negrito (bold)
- - Sublinhar texto
- - Itálico
- - Alinhar a esquerda
- - Alinhar a direita
- - Alinhar ao centro
+  
+  
+
+ - [x] Salvar arquivo
+
+  
+ 
+
+ - [x] Desfazer
+
+     
+  - [x] Refazer
+
+  - [x] Alterar fonte
+
+        
+
+  - [x] Alterar tamanho texto
+
+        
+
+  - [x] Deixar em negrito (bold)
+
+        
+
+ - [x] Sublinhar texto
+
+      
+  - [x] Itálico
+
+        
+
+ - [x] Alinhar a esquerda
+
+        
+
+ - [x] Alinhar a direita
+
+     
+ - [x] Alinhar ao centro
+
+ - [ ] Caixa seleção de cor
+ - [ ] Justificar o texto
+ - [ ] Diminuição da caixa de editor
+
 **
+
